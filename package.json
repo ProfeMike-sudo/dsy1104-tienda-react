@@ -1,0 +1,29 @@
+{
+  "name": "dsy1104-tienda-react",
+  "version": "2.0.0",
+  "description": "Proyecto de referencia DSY1104: tienda en React simplificada con hooks, formularios con validación y navegación entre páginas, usando props (sin destructuring) como se enseña en el curso",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "duoc",
+    "dsy1104",
+    "react",
+    "vite"
+  ],
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "react": "^19.3.0",
+    "react-bootstrap": "^2.10.10",
+    "react-dom": "^19.3.0",
+    "react-router-dom": "^7.18.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.1",
+    "vite": "^8.3.1"
+  }
+}
